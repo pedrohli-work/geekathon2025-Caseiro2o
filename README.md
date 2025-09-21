@@ -89,7 +89,8 @@ Our solution combines IoT sensor networks with AI-powered analysis to provide ea
 
 ## App link for testing: https://caseiro2o.streamlit.app/
 
-Note: This dashboard that simulates sensor alerts and fetches LLM suggesitons for these alerts was built because we reached the Amazon quota that enabled us to receive SMS.
+Note: This dashboard simulates sensor alerts and fetches the alerts that the Amazon Bedrock sent via SMS. This dashboard was built because we reached the Amazon quota that enabled us to receive SMS.
+
 ---
 
 **AI Rebels Team Project**  
