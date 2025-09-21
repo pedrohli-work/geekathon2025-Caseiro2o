@@ -7,8 +7,8 @@ from backend.s3_triggers import TRIGGER_LABELS, send_trigger_txt, get_related_me
 from backend.email_ses import send_email
 
 # ================== PAGE ==================
-st.set_page_config(page_title="Caseiro 2º - Alerts", page_icon="🐔", layout="centered")
-st.markdown("<h1 style='text-align:center;'>🐔 Caseiro 2º</h1>", unsafe_allow_html=True)
+st.set_page_config(page_title="Caseiro 2o - Alerts", page_icon="🐔", layout="centered")
+st.markdown("<h1 style='text-align:center;'>🐔 Caseiro 2o</h1>", unsafe_allow_html=True)
 st.caption("Trigger conditions, fetch alerts, and notify maintenance.")
 
 # ================== SECRETS ==================
