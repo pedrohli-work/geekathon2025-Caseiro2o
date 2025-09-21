@@ -1,3 +1,5 @@
+[image.png]
+
 # CAIseiro - AI-Powered Poultry Farm Monitoring System
 
 **Team**: AI Rebels  
@@ -81,6 +83,11 @@ Our solution combines IoT sensor networks with AI-powered analysis to provide ea
 - **Secondary**: Farm owners, and maintenance teams
 - **Beneficiaries**: Downstream supply chain including processing plants and restaurants
 
+## Notifications sent
+[Imagem do iOS.jpg]
+[Imagem do iOS (1).jpg]
+
+## App link for testing: https://caseiro2o.streamlit.app/
 ---
 
 **AI Rebels Team Project**  
