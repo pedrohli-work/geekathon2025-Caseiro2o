@@ -78,7 +78,7 @@ Our solution combines IoT sensor networks with AI-powered analysis to provide ea
 
 ## Target Users
 - **Primary**: Farm operators (caseiros) in Portuguese poultry farms
-- **Secondary**: Farm owners, veterinarians, and maintenance teams
+- **Secondary**: Farm owners, and maintenance teams
 - **Beneficiaries**: Downstream supply chain including processing plants and restaurants
 
 ---
